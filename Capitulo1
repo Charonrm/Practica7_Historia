@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Capítulo 1 - Pez fuera del agua</title>
+</head>
+<body style="background-color: #ff9100ff; font-family: Arial; text-align: center;">
+    <h1>🐸 Capítulo 1: Pez fuera del agua</h1>
+    <p>Rosita Fresita y Naranjita están en el arroyo cuando algo hace cosquillas al pie de Naranjita. Grita, segura de que una anguila la persigue.</p>
+    <p>Rosita Fresita se rie, pero Naranjita se adentra en el agua para enfrentarse a su "atacante": el pez más lindo, adorable y de mejillas abultadas que haya visto. Es amor a primera vista. Naranjita se lo lleva a casa.</p>
+
+    <img src="C1.jpeg" width="250">
+    <img src="C1.1.jpeg" width="250">
+
+    <table border="1" align="center">
+        <tr><th>Pez</th><th>Narajita</th></tr>
+        <tr><td>Rana</td><td>Estanque</td></tr>
+        <tr><td>Despedida</td><td>Rosita fresita</td></tr>
+        <tr><td>Casa</td><td>Felicidad</td></tr>
+    </table>
+
+    <ol>
+        <li>Pez en el arrollo</li>
+        <li>Encariña</li>
+        <li>Narajita</li>
+    </ol>
+
+    <p><a href="index.html">Volver al inicio</a> | <a href="capitulo2.html">Siguiente →</a></p>
+</body>
+</html>
